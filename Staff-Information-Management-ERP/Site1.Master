@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Faculty_Information_Management.Site1" %>
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Faculty Information Management</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="css/styleHeaderFooter.css" rel="stylesheet" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script src="js/jquery.min.js"></script>
+      <link href="css/round-about.css" rel="stylesheet">
+
+<link runat="server" rel="shortcut icon" href="Favicon.ico" type="image/x-icon"/>
+<link runat="server" rel="icon" href="Favicon.ico" type="image/ico"/>
+
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+ </head>
+<body>
+	<div class="header">
+		<div class="container">
+			<div class="row">
+			  <div class="col-md-12">
+				 <div class="header-left">
+                      <div class="logo">
+						<a href="default.aspx"><img src="images/finally.png" alt=""/></a>
+					 </div>
+					
+					 <div class="menu">
+						  
+						    <ul class="nav" id="nav">
+                                <li><a href="default.aspx">Home</a></li>
+						    	<li><a href="SearchBio.aspx">Faculty Bio</a></li>
+					            <li><a href="MyProfile.aspx">My Profile</a></li>
+                         <li><a href="default.aspx"><span>Signout</span></a></li>
+						    	<li><a href="About_Us.aspx">About Us</a></li>
+						    					
+								
+							</ul>
+							<script type="text/javascript" src="js/responsive-nav.js"></script>
+				    </div>							
+	    		    <div class="clear"></div>
+	    	    </div>
+	            <div class="header_right">
+	    <div class="clear"></div>
+	       </div>
+
+	      </div>
+		 </div>
+	    </div>
+	  </div>
+      
+      
+      
+      
+      
+     <div class="main">
+      <div class="shop_top">
+		<div class="container">
+        
+        
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        
+        <br/>
+
+			   </div>
+		    </div>
+		 </div>
+	   
+	  <div class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<ul class="footer_box">
+							<h4>Faculty Information Management</h4>
+							<li><a href="#">© 2016 PIET. 
+
+ </a></li>
+							<li><a href="#">All Rights Reserved. </a></li>
+							<li><a href="#">Designed by Garvit,Harsh,Harshit</a></li>
+						</ul>
+					</div>
+					<div class="col-md-6">
+						<ul class="footer_box">
+							<h4>About</h4>
+							<li><a href="#">Garvit, Harsh & Harshit of SHG 1 from 4CS-A2 of PIET college has developed this website with constant guidance of our Assistant Professor Mr. Paras Bassi Sir. 
+</a></li>
+							<li><a href="#">Facebook</a></li>
+							<li><a href="#">Twitter</a></li>
+						
+						</ul>
+					</div>
+					
+				
+				</div>
+                </div>
+                </div>
+               
+</body>	
+</html>

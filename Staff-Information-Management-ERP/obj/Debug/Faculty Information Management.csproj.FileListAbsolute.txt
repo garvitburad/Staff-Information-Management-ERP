@@ -1,0 +1,6 @@
+c:\users\gr8test\documents\visual studio 2013\Projects\Faculty Information Management\Faculty Information Management\bin\Faculty Information Management.dll.config
+c:\users\gr8test\documents\visual studio 2013\Projects\Faculty Information Management\Faculty Information Management\bin\Faculty Information Management.dll
+c:\users\gr8test\documents\visual studio 2013\Projects\Faculty Information Management\Faculty Information Management\bin\Faculty Information Management.pdb
+c:\users\gr8test\documents\visual studio 2013\Projects\Faculty Information Management\Faculty Information Management\obj\Debug\Faculty Information Management.csprojResolveAssemblyReference.cache
+c:\users\gr8test\documents\visual studio 2013\Projects\Faculty Information Management\Faculty Information Management\obj\Debug\Faculty Information Management.dll
+c:\users\gr8test\documents\visual studio 2013\Projects\Faculty Information Management\Faculty Information Management\obj\Debug\Faculty Information Management.pdb
